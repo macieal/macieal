@@ -24,15 +24,19 @@
 
 ## 🎮 My Favorite Games 🕹️
 
-* **ULTRAKILL**
-* **Bloons TD 6**
-* **GTA San Andreas**
+### ULTRAKILL
 
----
+![ULTRAKILL](https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1229490/header.jpg)
+
+### Bloons TD 6
+
+![Bloons TD 6](https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/960090/header.jpg)
+
+### GTA San Andreas
+
+![GTA San Andreas](https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/12120/header.jpg)
 
 ## 🌐 My Social Networks 🌎
-
-### Click the buttons below 👇
 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge\&logo=reddit\&logoColor=white)](https://www.reddit.com/user/Resident_Can5098/)
 [![YouTube InfinityStudios](https://img.shields.io/badge/InfinityStudios-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@infinity-studios-oficial)
