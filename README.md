@@ -2,9 +2,11 @@
 
 # 👋 Hello! I'm **Maciel**
 
-![Banner](https://img.shields.io/badge/Welcome-I'm%20Maciel-blueviolet?style=for-the-badge)
+<img src="https://share.creavite.co/6939eeceddc583135c6a95f9.gif" width="100%" alt="Banner" />
 
-</div>**
+</div>
+
+---
 
 ## 🧑‍💻 About Me ✨
 
@@ -35,6 +37,8 @@
 ### GTA San Andreas
 
 ![GTA San Andreas](https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/12120/header.jpg)
+
+---
 
 ## 🌐 My Social Networks 🌎
 
