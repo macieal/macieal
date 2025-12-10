@@ -4,7 +4,7 @@
 
 ![Banner](https://img.shields.io/badge/Welcome-I'm%20Maciel-blueviolet?style=for-the-badge)
 
-</div>
+</div>**
 
 ## 🧑‍💻 About Me ✨
 
@@ -30,11 +30,11 @@
 
 ---
 
-## 🌐 My Links & Projects 🌎
+## 🌐 My Social Networks 🌎
 
 ### Click the buttons below 👇
 
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge\&logo=reddit\&logoColor=white)](https://www.reddit.com)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge\&logo=reddit\&logoColor=white)](https://www.reddit.com/user/Resident_Can5098/)
 [![YouTube InfinityStudios](https://img.shields.io/badge/InfinityStudios-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@infinity-studios-oficial)
 [![YouTube Maciel](https://img.shields.io/badge/Maciel-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@macieloficial)
 
