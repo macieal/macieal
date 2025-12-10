@@ -4,7 +4,7 @@
 
 ![Banner](https://img.shields.io/badge/Welcome-I'm%20Maciel-blueviolet?style=for-the-badge)
 
-</div>**
+</div>
 
 ## 🧑‍💻 About Me ✨
 
