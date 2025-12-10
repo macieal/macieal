@@ -37,8 +37,6 @@
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge\&logo=reddit\&logoColor=white)](https://www.reddit.com)
 [![YouTube InfinityStudios](https://img.shields.io/badge/InfinityStudios-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@infinity-studios-oficial)
 [![YouTube Maciel](https://img.shields.io/badge/Maciel-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@macieloficial)
-[![Infinity Studios Site](https://img.shields.io/badge/Infinity%20Studios%20Site-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://infinitystudios.vercel.app)
-[![My Website](https://img.shields.io/badge/My%20Website-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://macieal.github.io/maciell)
 
 ---
 
