@@ -8,7 +8,7 @@
 
 ---
 
-## 🧑‍💻 About Me ✨
+## 🧑💻 About Me ✨
 
 * I'm **13 years old**.
 * My favorite school subjects are **Math**, **English**, and **Geography**.
@@ -18,9 +18,10 @@
 
 ## 💻 Skills 🚀
 
-* **HTML** ![Badge](https://img.shields.io/badge/HTML-F06529?style=for-the-badge\&logo=html5\&logoColor=white)
-* **CSS** ![Badge](https://img.shields.io/badge/CSS-2965F1?style=for-the-badge\&logo=css3\&logoColor=white)
-* **Learning VB.NET** ![Badge](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+* **HTML** ![Badge](https://img.shields.io/badge/HTML-F06529?style=for-the-badge&logo=html5&logoColor=white)
+* **CSS** ![Badge](https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white)
+* **Learning JavaScript** ![Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+* **Learning VB.NET** ![Badge](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ---
 
@@ -38,13 +39,17 @@
 
 ![GTA San Andreas](https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/12120/header.jpg)
 
+### Rayman Legends
+
+![Rayman Legends](https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/242550/header.jpg)
+
 ---
 
 ## 🌐 My Social Networks 🌎
 
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge\&logo=reddit\&logoColor=white)](https://www.reddit.com/user/Resident_Can5098/)
-[![YouTube InfinityStudios](https://img.shields.io/badge/InfinityStudios-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@infinity-studios-oficial)
-[![YouTube Maciel](https://img.shields.io/badge/Maciel-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@macieloficial)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Resident_Can5098/)
+[![YouTube InfinityStudios](https://img.shields.io/badge/InfinityStudios-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@infinity-studios-oficial)
+[![YouTube Maciel](https://img.shields.io/badge/Maciel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@macieloficial)
 
 ---
 
