@@ -48,7 +48,7 @@
 ## 🌐 My Social Networks 🌎
 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Resident_Can5098/)
-[![YouTube SingularyStudios](https://img.shields.io/badge/InfinityStudios-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SingularyStudios-oficial)
+[![YouTube SingularyStudios](https://img.shields.io/badge/SingularyStudios-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SingularyStudios-oficial)
 [![YouTube Maciel](https://img.shields.io/badge/Maciel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@macieloficial)
 
 ---
